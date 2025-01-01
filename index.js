@@ -1,10 +1,6 @@
-const name = "Ram";
+const myName = "Ram";
 const age = "21";
 function print(name){
-    console.log("My name is "+name);
+    console.log("My name is "+myName);
 }
-print(name);
-function calc(age){
-    console.log(age);
-}
-age(21);
+print(myName);
