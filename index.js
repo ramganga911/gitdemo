@@ -5,6 +5,6 @@ function print(name){
 }
 print(myName);
 function calc(age){
-    return age;
+    return age1;
 }
 calc(21);
